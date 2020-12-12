@@ -14,6 +14,7 @@
 - [0053. 最大子序和](../problems/53.maximum-sum-subarray-cn.md)
 - [0066. 加一](../problems/66.plus-one.md) 91
 - [0088. 合并两个有序数组(👀)](../problems/88.merge-sorted-array.md)
+         归并，从后往前合并可以解决移动数据的问题
 - [0101. 对称二叉树](../problems/101.symmetric-tree.md)
 - [0104. 二叉树的最大深度](../problems/104.maximum-depth-of-binary-tree.md)
 - [0108. 将有序数组转换为二叉搜索树](../problems/108.convert-sorted-array-to-binary-search-tree.md)
