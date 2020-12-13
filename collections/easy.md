@@ -21,6 +21,7 @@
 - [0108. 将有序数组转换为二叉搜索树](../problems/108.convert-sorted-array-to-binary-search-tree.md)
 - [0121. 买卖股票的最佳时机](../problems/121.best-time-to-buy-and-sell-stock.md)
 - [0122. 买卖股票的最佳时机 II](../problems/122.best-time-to-buy-and-sell-stock-ii.md)
+         跌了就买，涨了就卖～～～，理想操作而已
 - [0125. 验证回文串](../problems/125.valid-palindrome.md)
 - [0136. 只出现一次的数字](../problems/136.single-number.md)
 - [0155. 最小栈](../problems/155.min-stack.md)
