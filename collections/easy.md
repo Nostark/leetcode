@@ -51,3 +51,4 @@
          题目描述有问题，障碍物描述不清楚
 - [1260. 二维网格迁移](../problems/1260.shift-2d-grid.md)
 - [1332. 删除回文子序列](../problems/1332.remove-palindromic-subsequences.md)
+         脑经急转弯，是回文子序列，不是字串，如果是空串就返回0，如果是回文串就返回1，否则返回2
