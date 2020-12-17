@@ -48,5 +48,6 @@
 - [0575. 分糖果](../problems/575.distribute-candies.md)
 - [821. 字符的最短距离](../problems/821.shortest-distance-to-a-character.md) 91
 - [0874. 模拟行走机器人](../problems/874.walking-robot-simulation.md)
+         题目描述有问题，障碍物描述不清楚
 - [1260. 二维网格迁移](../problems/1260.shift-2d-grid.md)
 - [1332. 删除回文子序列](../problems/1332.remove-palindromic-subsequences.md)
