@@ -11,6 +11,8 @@
 - [0002. 两数相加](../problems/2.add-two-numbers.md)
 - [0003. 无重复字符的最长子串](../problems/3.longest-substring-without-repeating-characters.md)
 - [0005. 最长回文子串](../problems/5.longest-palindromic-substring.md)
+         方法(1)dp[i][j]表示i～j回文字符串的长度，如果不是回文字符串则为0
+         方法(2)中心扩展法
 - [0011. 盛最多水的容器](../problems/11.container-with-most-water.md)
 - [0015. 三数之和](../problems/15.3sum.md)
 - [0017. 电话号码的字母组合](../problems/17.Letter-Combinations-of-a-Phone-Number.md)
