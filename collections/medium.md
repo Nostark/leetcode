@@ -20,6 +20,9 @@
 - [0017. 电话号码的字母组合](../problems/17.Letter-Combinations-of-a-Phone-Number.md)
 - [0019. 删除链表的倒数第 N 个节点](../problems/19.removeNthNodeFromEndofList.md)
 - [0022. 括号生成](../problems/22.generate-parentheses.md)
+          括号有效的判断条件：1.遍历中，从左到右，对于每一位，左括号数量left大于等于右括号数量right，即left>=right2.遍历结束，左右括号数量一致，left==right==n
+         (1)全排列，然后判断是否有效---复杂度较高
+         (2)进一步优化，排列的过程中，同时进行判断
 - [0024. 两两交换链表中的节点](../problems/24.swapNodesInPairs.md)
 - [0029. 两数相除](../problems/29.divide-two-integers.md)
 - [0031. 下一个排列](../problems/31.next-permutation.md)
