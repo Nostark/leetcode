@@ -25,6 +25,7 @@
          (2)进一步优化，排列的过程中，同时进行判断
 - [0024. 两两交换链表中的节点](../problems/24.swapNodesInPairs.md)
 - [0029. 两数相除](../problems/29.divide-two-integers.md)
+         分情况(1)两个数都是最小负数（2）a不是最小负数，b是最小负数（3）两个数都不是最小负数（4）一个是最小负数，另一个不是最小负数（当另一个是-1时是特殊情况）
 - [0031. 下一个排列](../problems/31.next-permutation.md)
 - [0033. 搜索旋转排序数组](../problems/33.search-in-rotated-sorted-array.md)
 - [0039. 组合总和](../problems/39.combination-sum.md)
