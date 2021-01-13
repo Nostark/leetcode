@@ -30,6 +30,7 @@
 - [0033. 搜索旋转排序数组](../problems/33.search-in-rotated-sorted-array.md)
 - [0039. 组合总和](../problems/39.combination-sum.md)
 - [0040. 组合总和 II](../problems/40.combination-sum-ii.md)
+         需要注意实现，如何去重
 - [0046. 全排列](../problems/46.permutations.md)
 - [0047. 全排列 II](../problems/47.permutations-ii.md)
 - [0048. 旋转图像](../problems/48.rotate-image.md)
