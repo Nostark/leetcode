@@ -34,6 +34,7 @@
 -        注意判断跳出条件的顺序，题目组合总和 III也要看
 - [0046. 全排列](../problems/46.permutations.md)
 - [0047. 全排列 II](../problems/47.permutations-ii.md)
+         注意如何实现去重
 - [0048. 旋转图像](../problems/48.rotate-image.md)
 - [0049. 字母异位词分组](../problems/49.group-anagrams.md)
 - [0050. Pow(x, n)](../problems/50.pow-x-n.md)
