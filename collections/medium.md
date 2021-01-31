@@ -58,6 +58,8 @@
 - [0095. 不同的二叉搜索树 II](../problems/95.unique-binary-search-trees-ii.md)
 - [0096. 不同的二叉搜索树](../problems/96.unique-binary-search-trees.md)
 - [0098. 验证二叉搜索树](../problems/98.validate-binary-search-tree.md)
+         方法一：先得倒中序遍历的结果，判断是否是升序
+         方法二：遍历的同时进行判断！！！！！1
 - [0102. 二叉树的层序遍历](../problems/102.binary-tree-level-order-traversal.md)
 - [0103. 二叉树的锯齿形层次遍历](../problems/103.binary-tree-zigzag-level-order-traversal.md)
 - [0113. 路径总和 II](../problems/113.path-sum-ii.md)
