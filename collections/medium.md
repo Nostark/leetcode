@@ -68,6 +68,7 @@
 - [0130. 被围绕的区域](../problems/130.surrounded-regions.md)
 - [0131. 分割回文串](../problems/131.palindrome-partitioning.md)
 - [0139. 单词拆分](../problems/139.word-break.md)
+         动态规划
 - [0144. 二叉树的前序遍历](../problems/144.binary-tree-preorder-traversal.md)
          注意：非递归方法
 - [0147. 对链表进行插入排序](../problems/147.insertion-sort-list.md) 🆕
