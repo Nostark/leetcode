@@ -79,6 +79,7 @@
 - [0201. 数字范围按位与](../problems/201.bitwise-and-of-numbers-range.md)
 - [0208. 实现 Trie (前缀树)](../problems/208.implement-trie-prefix-tree.md)
 - [0209. 长度最小的子数组](../problems/209.minimum-size-subarray-sum.md)
+          注意所有元素之和小于目标值的情况！！！！
 - [0211. 添加与搜索单词 \* 数据结构设计](../problems/211.add-and-search-word-data-structure-design.md)
 - [0215. 数组中的第 K 个最大元素](../problems/215.kth-largest-element-in-an-array.md)
 - [0221. 最大正方形](../problems/221.maximal-square.md)
