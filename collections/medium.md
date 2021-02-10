@@ -87,8 +87,6 @@
 - [0230. 二叉搜索树中第 K 小的元素](../problems/230.kth-smallest-element-in-a-bst.md)
 - [0236. 二叉树的最近公共祖先](../problems/236.lowest-common-ancestor-of-a-binary-tree.md)
          注意考虑周全！！
-- [0236. 二叉树的最近公共祖先](../problems/236.lowest-common-ancestor-of-a-binary-tree.md)
-- [0236. 二叉树的最近公共祖先](../problems/236.lowest-common-ancestor-of-a-binary-tree.md)
 - [0238. 除自身以外数组的乘积](../problems/238.product-of-array-except-self.md)
 - [0240. 搜索二维矩阵 II](../problems/240.search-a-2-d-matrix-ii.md)
 - [0279. 完全平方数](../problems/279.perfect-squares.md)
