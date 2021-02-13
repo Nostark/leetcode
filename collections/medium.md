@@ -94,6 +94,10 @@
          之前没做过，注意五种方法的状态转移！！！
          股票买卖有四道题！！
 - [0322. 零钱兑换](../problems/322.coin-change.md)
+         零钱兑换1：注意处理返回结果-1
+
+- [0322. 零钱兑换](../problems/322.coin-change.md)
+- [0322. 零钱兑换](../problems/322.coin-change.md)
 - [0328. 奇偶链表](../problems/328.odd-even-linked-list.md)
 - [0334. 递增的三元子序列](../problems/334.increasing-triplet-subsequence.md)
 - [0337. 打家劫舍 III](../problems/337.house-robber-iii.md)
