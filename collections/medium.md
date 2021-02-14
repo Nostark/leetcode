@@ -97,6 +97,7 @@
          属于背包问题：注意推公式
 - [0328. 奇偶链表](../problems/328.odd-even-linked-list.md)
 - [0334. 递增的三元子序列](../problems/334.increasing-triplet-subsequence.md)
+         注意边界处理条件
 - [0337. 打家劫舍 III](../problems/337.house-robber-iii.md)
 - [0343. 整数拆分](../problems/343.integer-break.md)
 - [0365. 水壶问题](../problems/365.water-and-jug-problem.md)
