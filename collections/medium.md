@@ -103,6 +103,8 @@
 - [0343. 整数拆分](../problems/343.integer-break.md)
          dp[i]的公式
 - [0365. 水壶问题](../problems/365.water-and-jug-problem.md)
+         方法一：状态枚举
+         方法二：求最大公约数
 - [0378. 有序矩阵中第 K 小的元素](../problems/378.kth-smallest-element-in-a-sorted-matrix.md)
 - [0380. 常数时间插入、删除和获取随机元素](../problems/380.insert-delete-getrandom-o1.md)
 - [0394. 字符串解码](../problems/394.decode-string.md) 91
